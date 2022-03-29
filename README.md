@@ -2,7 +2,7 @@
 
 A digital display made with Flutter.
 
-![The display in action](http://localhost:1313/images/wp-content/uploads/2020/08/flutter-led-display-new.png)
+![The display in action](https://www.flutterclutter.dev/images/posts/2020-09-04-simulate-an-led-display/flutter-led-display-screen-new.png)
 
 # Article
 
